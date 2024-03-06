@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Now you know me </title>
+
+        <style> 
+            Hi
+            h1 {
+                color:blue
+            }
+            p {
+                color:mediumblue
+            }
+            body {
+                background-color:powderblue
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div>
+            <h1>The Curly Cute One</h1>
+            <h2>I am, 'THE DON'</h2>
+        </div>
+
+        <div> 
+            <img src = "Pic.jpeg" width = "190" alt = "The Don"/>
+            <br>
+            <b> <i> Keep Calm, and Understand me</i></b>
+            <br>
+            <i> FYI, I just Shine and Rule!</i>
+        </div>
+
+        <div> 
+            <p> 
+                Let me Introduce myself-<br>
+                I am the one featured in all students discussions, <br>
+                as the Boring guy. Trust me, I ain't Boring :/ 
+            </p>
+        </div>
+
+        <div>
+            <p style = "color:white; background-color: blue; width:25%">
+                It's just I don't get easily envolved in Talks!. <br>
+                Surprisingly, It turns out I am friendly for most of the students.
+            </p>
+        </div>
+
+        <div>
+            <p style="width:25%; color:blue;">
+                <a href = "file:///D:/Mayank/Tinkering/Coding/HTML/Sample/Hey.html">Click me for getting my profile</a>
+            </p>
+        </div>
+
+        <div> 
+            <p>
+                Hey, Can I have your number please :
+                <input type = "text" placeholder = "Please let us know your number"?\>
+            </p>
+        </div>
+
+    </body>
+
+    <footer>
+        <h4> Bye For Now! </h4>
+    </footer>
+
+    <article>
+        <h3> We hope to see you soon!</h3>
+    </article>
+
+</html>
