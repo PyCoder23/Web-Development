@@ -94,7 +94,7 @@
         </form>
         
         <?php
-            $conn = mysqli_connect("localhost", "root", "Mayank@ATL", "cred");
+            $conn = mysqli_connect("localhost", "USERNAME", "PASSWORD", "DATABASE_NAME");
             $sql = 'INSERT INTO credentials (Name, Email, Password, Gender, DOB, Hobby, Country, City) 
             VALUES (?, ?, ?, ?, ?, ?, ?, ?)';
             $conn->execute_query($sql, [$nameV, $emailV, $passV, $genderV, $dobV, $hobbyV, $countryV, $cityV]);
