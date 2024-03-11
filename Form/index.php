@@ -36,7 +36,7 @@
         <h1>
             Form
         </h1>
-        <form action = "http://localhost/welcome" method="GET"> 
+        <form action = "http://192.168.56.1/welcome" method="GET"> 
 
             <?php
                 $nameV = $_GET['nameI'];
